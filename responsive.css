@@ -1,0 +1,70 @@
+@media only screen and (max-width: 600px){
+/* upper part start */
+.upper-part{
+    height: 80vh;
+}
+.upper-part img{
+    width: 130px;
+    margin-bottom: 30px;
+}
+.upper-part h1{
+    color: white;
+    font-size: 22px;
+    margin-bottom: 12px;
+}
+.first-button a{
+    padding: 17px 24px;
+    margin-right: 10px;
+}
+/* upper part end */
+/* Hero part start */
+.hero-part h1{
+    font-size: 33px;
+}
+.hero-part h2{
+    font-size: 23px;
+}
+.main-hero{
+    grid-template-columns: 1fr;
+}
+.hero-box{
+    height: auto;
+    width: auto;
+}
+.hero-box h2{
+    margin-top: 15px;
+    padding-bottom: 10px;
+}
+/* Hero part end */
+/* service part start */
+.service-title h1{
+    font-size: 32px;
+}
+.service-main{
+    grid-template-columns: 1fr;
+    padding: 50px 20px;
+}
+.service-box{
+    height: auto;
+    width: auto;
+}
+.service-box img{
+    margin-top: 35px;
+}
+.service-box p{
+    margin-bottom: 35px;
+}
+/* service part end */
+/* last part start */
+.last-part{
+    height: 470px;
+}
+.last-part h1{
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+.last-part a{
+    padding: 15px 27px;
+}
+/* last part end */
+}
